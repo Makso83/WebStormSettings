@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="bot_update" type="AUTO_DETECTED" />
+      <mapping pattern="27_10_2021_21-00_log_file" type="AUTO_DETECTED" />
+      <mapping pattern="total_update" type="AUTO_DETECTED" />
+      <mapping pattern="Interface.ts" type="AUTO_DETECTED" />
+      <mapping pattern="create-certeficate" type="AUTO_DETECTED" />
+      <mapping pattern="v1" type="AUTO_DETECTED" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <removed_mapping pattern="index.js" approved="true" type="AUTO_DETECTED" />
+    </extensionMap>
+  </component>
+</application>
